@@ -1,0 +1,43 @@
+*{box-sizing: border-box}
+
+.summer  {
+  border-top-style: solid;
+  border-top-width: thin;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+  width: 45%;
+  margin-bottom: 16px;
+}
+
+.summer p {
+  font-family: "Futura";
+  color: darkgray;
+  text-align: center;
+  font-size: 12px;
+}
+
+.column-containers {
+  font-size: 0;
+}
+
+.nav {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.nav a {
+  font-size: medium;
+  font-family: "Futura";
+  text-decoration: none;
+  background-color: rgb(205,92,92);
+  color: #fff;
+  padding: 4px;
+  margin: 2px;
+}
+
+.nav input {
+  font-family: "Futura";
+  color: #ddd;
+  font-weight: bold;
+  font-size: 12px;
+}

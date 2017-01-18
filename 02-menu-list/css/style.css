@@ -1,0 +1,23 @@
+*{box-sizing: border-box}
+
+.menu {
+  width: 15%;
+  border-style: solid;
+  border-width: thin;
+}
+.menu p {
+  font-family: "Avenir";
+  padding-left: 4px;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+}
+
+.first {
+  color: #66CC99;
+  border-bottom-color: black;
+}
+
+.last {
+  margin-bottom: -17px;
+  border-bottom-style:none;
+}

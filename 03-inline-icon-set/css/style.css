@@ -1,0 +1,16 @@
+*{box-sizing: border-box}
+
+
+
+.column-containers {
+  font-size: 0;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+.icons {
+  display: inline-block;
+  vertical-align: top;
+}

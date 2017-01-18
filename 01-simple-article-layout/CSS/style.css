@@ -1,0 +1,38 @@
+*{box-sizing: border-box}
+
+body {
+  background-color: #FBF9F1;
+  font-family: "Georgia";
+  margin-left: 10%;
+}
+
+.name p {
+  font-weight: lighter;
+  font-size: 32px;
+}
+
+.monotype {
+  background-color: black;
+  color: #fff;
+  font-family: "Geneva";
+  padding: 2px;
+}
+
+.hello h1 {
+  font-size: 60px;
+  font-weight: lighter;
+}
+
+.hello {
+  margin-right: 65%;
+  line-height: 1.25;
+}
+
+.hello {
+  font-size: 20px;
+  line-height: 1.25;
+}
+
+.hello a {
+  color: #77A8D2;
+}
